@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://madhura.com.au/",
   author: "Madhura Deshpande",
   desc: "Blog",
-  title: "madhura.com.au",
+  title: "madhura.au",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
