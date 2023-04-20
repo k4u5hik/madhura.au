@@ -20,3 +20,7 @@ I help with assistance in legal issues relating to guardianship, unscientific an
 ## Research
 
 Currently doing research in developing programs and techniques that help people with disability to access specific medical treatments while working alongside medical practitoners.
+
+## Fun
+
+Brazilian jiu-jitsu - Blue belt 4 stripes
