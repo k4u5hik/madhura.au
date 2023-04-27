@@ -3,7 +3,7 @@ author: Madhura Deshpande
 pubDatetime: 2023-04-28T09:24:16.846463+10:00
 title: Adulthood Begins in Preschool - Meaningful Curriculum in Support of Increased Independence for Individuals with Autism
 postSlug: meaningful-curriculum-march2023
-featured: true
+featured: false
 draft: false
 tags:
   - research
