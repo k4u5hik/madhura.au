@@ -11,7 +11,7 @@ ogImage: ""
 description:
   Presentation at the 2023 Annual Parent Autism Conference - Endicott College
 ---
-![2023 Annual Parent Autism Conference - Endicott College](https://mdhr.s3.ap-southeast-2.amazonaws.com/2023/2023-autism-conference.png)
+![2023 Annual Parent Autism Conference - Endicott College](https://mdhr.s3.ap-southeast-2.amazonaws.com/2023/autism-conference-april-2023.png)
 
 Presented at the 2023 Annual Parent Autism Conference at the Endicott College on the topic **"Preparing Individuals with ASD for the Transition into Adolescence and Adulthood"** and the following points were discussed
 
