@@ -6,7 +6,7 @@ title: "About"
 Hey, I'm Madhura Deshpande from Sydney, Australia.
 
 <div>
-  <img src="/assets/madhura.jpg" class="sm:w-1/2 mx-auto" alt="madhura">
+  <img src="https://mdhr.s3.ap-southeast-2.amazonaws.com/2023/madhura-national-park.jpg" class="sm:w-1/2 mx-auto" alt="madhura">
 </div>
 
 ## Work
