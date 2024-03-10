@@ -9,7 +9,8 @@ draft: true
 tags:
 
 - journalclub
-- ogImage: ""
+- march2024
+  ogImage: ""
   description: "Join our Online Journal Club on Monday, 25th March 2024, 7pm - Tincani, Brodhead and Dowdy (2024) “ABA Promotes Autonomy and Choice of People with Intellectual and Developmental Disabilities”"
 
 ---
