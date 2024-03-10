@@ -4,7 +4,7 @@ pubDatetime: 2024-03-10T18:37:00.846463+10:00
 title: "Journal Club - 25th March 2024"
 postSlug: journal-club-mar2024
 featured: false
-draft: true
+draft: false
 tags:
   - journalclub
   - march2024
@@ -14,14 +14,10 @@ description: "Join our Online Journal Club on Monday, 25th March 2024, 7pm - Tin
 
 ![JournalClubMarch2024](https://files.mastodon.social/media_attachments/files/112/040/372/159/091/209/original/a1158c3d705db61d.png)
 
-## Discussion Topics
+## Learning Objectives
 
-1. Setting meaningful goals
-2. Preparing for puberty
-3. Addressing challenging behaviours
-4. NDIS
-5. Living options for adults
-6. Health care and community access
-7. Guardianship
+1. Understanding the impact of the disability rights movement on ABA techniques aimed at enhancing autonomy and choice for individuals with ASD and IDD
+2. Learning about key ABA strategies including preference assessments and communication techniques, to promote independence in individuals with ASD and IDD
+3. Identify future research directions and unresolved issues in the field.
 
-**Presentation Slides:** [Download](https://mdhr.s3.ap-southeast-2.amazonaws.com/2023/Madhura-Deshpande-AuABA-2023-Presentation.pdf)
+**Presentation Slides:** [To Be Uploaded after the meeting]()
