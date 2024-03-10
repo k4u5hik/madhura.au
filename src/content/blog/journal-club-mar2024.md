@@ -1,5 +1,4 @@
-    ---
-
+---
 author: Madhura Deshpande
 pubDatetime: 2024-03-10T18:37:00.846463+10:00
 title: "Journal Club - 25th March 2024"
@@ -7,12 +6,10 @@ postSlug: journal-club-mar2024
 featured: false
 draft: true
 tags:
-
-- journalclub
-- march2024
-  ogImage: ""
-  description: "Join our Online Journal Club on Monday, 25th March 2024, 7pm - Tincani, Brodhead and Dowdy (2024) “ABA Promotes Autonomy and Choice of People with Intellectual and Developmental Disabilities”"
-
+  - journalclub
+  - march2024
+ogImage: ""
+description: "Join our Online Journal Club on Monday, 25th March 2024, 7pm - Tincani, Brodhead and Dowdy (2024) 'ABA Promotes Autonomy and Choice of People with Intellectual and Developmental Disabilities'"
 ---
 
 ![JournalClubMarch2024](https://files.mastodon.social/media_attachments/files/112/040/372/159/091/209/original/a1158c3d705db61d.png)
