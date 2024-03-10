@@ -3,7 +3,7 @@
 author: Madhura Deshpande
 pubDatetime: 2024-03-10T18:37:00.846463+10:00
 title: "Journal Club - 25th March 2024"
-postSlug: journal-club-Mar2024
+postSlug: journal-club-mar2024
 featured: false
 draft: true
 tags:
