@@ -6,9 +6,9 @@ postSlug: group-contingencies-review
 featured: false
 draft: false
 tags:
-  - research
+  - literature review
   - group contingencies
-  - behavior analysis
+  - contingency management
 ogImage: ""
 description: Contributing author on a systematic literature review on group contingencies with adults
 ---
