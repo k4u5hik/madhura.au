@@ -3,34 +3,20 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Hey, I'm Madhura Deshpande from Sydney, Australia.
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="https://mdhr.s3.ap-southeast-2.amazonaws.com/2023/madhura-national-park.jpg" class="mx-auto" alt="madhura">
 </div>
 
-## Tech Stack
+## Work
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+I work with children and adults with complex and co-morbid diagnosis and high support needs including autism and profound autism, intellectual disabilities, psychosocial mental health diagnoses, rare conditions like agenesis of the corpus callosum and chromosomal translocations.
 
-## Features
+I specialise in assessment, management and treatment of high risk behaviours.
 
-Here are certain features of this site.
+I also help with assistance in legal issues relating to guardianship, unscientific and misuse of restrictive practices authorisations, Department of Education, Family Court issues and the NDIS.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+## Research
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+I am currently a PhD student at the Institute of Applied Behaviour Science at Endicott College, USA. My research interests include treatment of high risk maladaptive behaviours, outcome based treatment protocols and developing programs and techniques that help people with disability to access specific medical treatments while working alongside medical practitoners.
